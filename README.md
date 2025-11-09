@@ -1,2 +1,2 @@
 ## Hi there 👋  
-I am Hailey, a web & app devloper who enjoys creating open source projects.
+I am Hailey, a web & app developer who enjoys creating open source projects.
